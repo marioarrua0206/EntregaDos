@@ -1,0 +1,26 @@
+.card {
+  height: 350px;
+  width:250px;
+  background-color: #a9a9a9;
+  border-radius: 15px;
+  align-items: center;
+  text-align: center;
+  font-size: 1rem; 
+  padding: 10px; 
+}
+
+.card img {
+  width: 230px; 
+  height: auto; 
+  border-radius: 8px;   
+  margin-bottom: 25px;
+  
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+
+
